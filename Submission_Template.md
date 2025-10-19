@@ -14,5 +14,5 @@ Describe how your solution functions
 ## Demo / Screenshots
 Add any images, GIFs or video links that show your project in action. 
 
-# GitHub Repository Link
+## GitHub Repository Link
 Paste the link to your project repo here
