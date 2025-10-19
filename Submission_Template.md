@@ -1,6 +1,6 @@
 # Project Title
 
-##Team Members
+## Team Members
 - Full Name 1
 - Full Name 2
 - Full Name 3
