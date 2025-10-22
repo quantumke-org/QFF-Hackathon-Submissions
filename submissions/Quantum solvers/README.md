@@ -3,13 +3,13 @@
 1.Jamie Nguru 
 2.Priscilla Nyokabi
 3.Sharon Mugure
-# Concept Description
+## Concept Description
 The Quantum Time Capsule is an interactive Streamlit web application that integrates
 Qiskit quantum simulations within a dynamic, timeline-based interface. It demonstrates
 how quantum computing frameworks can be combined with modern web technologies to create
 an engaging educational platform.
 
-##How it works
+## How it works
 Each timeline entry represents a key quantum concept implemented as a modular Qiskit 
 simulation. These include circuits demonstrating superposition and interference
 using Hadamard gates, probabilistic measurements for Schrödinger’s Cat, entanglement
