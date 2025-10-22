@@ -36,4 +36,4 @@ Click here to watch the video demo of our project
 [Google Drive Link](https://drive.google.com/file/d/1IxIho6Wn8VdKtxFC8OdNHN33m7h_Z-um/view?usp=sharing)
 
 ## Github Repository Link
- [Repository](https://github.com/JamieNguru/Quantum-Solvers.git)
+  Click here to enter the  repository [Repository](https://github.com/JamieNguru/Quantum-Solvers.git)
