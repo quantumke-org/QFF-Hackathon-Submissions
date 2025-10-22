@@ -19,6 +19,10 @@ The workflow includes:
 This approach demonstrates that quantum algorithms can deliver accurate, stable, and computationally efficient molecular simulations, offering a scalable pathway toward quantum-enhanced materials discovery, catalysis, drug discovery, and environmental chemistry.
 
 ## Demo / Screenshots
+### Qiskit Quantum circuit
+![Quantum Circuit](circuit.png "Quantum Circuit")
+
+### Energy Convergence Graph
 ![Energy Convergence](ssvqe_energy_convergence.png "Energy Convergence")
 
 ## GitHub Repository Link
