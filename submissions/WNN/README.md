@@ -26,6 +26,6 @@ This approach demonstrates that quantum algorithms can deliver accurate, stable,
 ![Energy Convergence](ssvqe_energy_convergence.png "Energy Convergence")
 
 ## GitHub Repository Link
-[Project link](https://github.com/NoahNzeki/qff_hackthon)
+[Project Github Repository link](https://github.com/NoahNzeki/qff_hackthon)
 
 
