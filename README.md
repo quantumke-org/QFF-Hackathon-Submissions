@@ -1,4 +1,4 @@
-# QFF-Hackathon-Submissions
+# QFF-2025-Hackathon-Submissions
 
 This is the official submission repository for the Qiskit Fall Fest Nairobi 2025 Hackathon
 
